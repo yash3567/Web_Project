@@ -68,7 +68,7 @@ body {
 
 header {
     background-image: linear-gradient(to top, var(--primary-color), transparent),
-        url("assets/header.jpg");
+        url("images/wp9035635-planet-4k-pc-wallpapers.jpg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -357,7 +357,7 @@ nav {
     text-align: center;
     font-size: 12rem;
     font-weight: 700;
-    background-image: url("assets/banner.jpg");
+    background-image: url("images/skyline-downtown-new-york-new-york-usa_268835-2599.avif");
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     -webkit-text-stroke: 1px var(--extra-light);
