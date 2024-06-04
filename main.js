@@ -57,3 +57,4 @@ ScrollReveal().reveal(".journals__card", {
     ...scrollRevealOption,
     interval: 400,
 });
+
